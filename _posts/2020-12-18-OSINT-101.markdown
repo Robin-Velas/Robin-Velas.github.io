@@ -1,0 +1,31 @@
+## What is OSINT?
+
+OSINT, or Open Source Intelligence, is the practice of collecting, analyzing, and disseminating information from publicly available sources. It is often used by law enforcement, intelligence agencies, and businesses to gather information on individuals, organizations, and events.
+
+The goal of OSINT is to gather as much information as possible from open sources, including social media, news articles, government websites, and more, in order to paint a complete picture of a subject or situation.
+
+## 5 Best Resources for OSINT
+
+1. [OSINT Framework](https://osintframework.com/): This website is a great starting point for OSINT beginners, as it provides a comprehensive list of open source tools and resources organized by category. It includes tools for social media investigation, data visualization, and more, as well as training materials and case studies.
+
+2. [Counter-OSINT: A Guide to Privacy](https://github-com.translate.goog/soxoj/counter-osint-guide-ru?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp): This guide, written by soxoj, provides a comprehensive overview of OSINT, including how to protect yourself from it. It is originally only available in Russian, but using Google Translate, you can read it in English from this link. It is still a work in progress, so it is not yet complete.
+
+3. [The OSINT Guide](https://www.osintguide.com/): This is a new website that provides a variety of OSINT resources, including tools, articles, and training materials. What makes it different from other OSINT resources is the fresh content it provides, as it is updated regularly.
+
+4. [Maltego](https://www.maltego.com/maltego-community/): This tool is commonly used for OSINT, as it allows users to visually map out relationships between people, organizations, and events. It offers a variety of transforms for extracting data from various sources, including social media, domains, and more.
+
+5. [OSINT Reddit](https://www.reddit.com/r/OSINT/): This subreddit is a great place to ask questions about OSINT, as well as to find new tools and resources. It has a large and active community of OSINT practitioners who regularly share tips, tools, and case studies. In addition to discussion threads, the subreddit also features job postings, event announcements, and other OSINT-related content.
+
+## GitHub Repositories for OSINT
+
+1. [Sherlock](https://github.com/sherlock-project/sherlock): You can then use it to search for a particular username across a range of social media platforms, including Twitter, Instagram, Reddit, and others. Sherlock will return any information that it is able to find about the user, such as their name, location, and links to their social media profiles.
+
+2. [Awesome-OSINT](https://github.com/jivoi/awesome-osint): A curated list of amazingly awesome open source intelligence tools and resources. This list is enourmous and includes tools for social media investigation, data visualization, and more, as well as training materials and case studies.
+
+3. [Spiderfoot](https://github.com/smicallef/spiderfoot): SpiderFoot is an open source intelligence tool that collects and analyzes data from a variety of sources using various methods. It has a web-based interface and over 200 modules for different types of data, and can also be used via the command line. It includes features such as data export, API key management, SQLite support, and integration with other tools like DNSTwist and Nmap. It is written in Python and can be deployed using Docker.
+
+4. [Maigret](https://github.com/soxoj/maigret): Maigret is a tool for collecting information about individuals from a wide range of websites using only their username. It can search more than 2500 sites and includes features such as profile page parsing, recursive search, and censorship detection. No API keys are required.
+
+5. [OneForAll](https://github.com/shmilylty/OneForAll/blob/master/docs/en-us/README.md): OneForAll is a tool designed to gather and analyze subdomains. It uses multiple methods, including certificate modules, baseline testing modules, web crawlers, DNS datasets, DNS queries, threat intelligence, and search engines, to collect and verify subdomains. OneForAll also has fast processing capabilities and a user-friendly interface, and supports various export formats.
+
+Overall, OSINT is a valuable discipline for anyone looking to gather information from open sources. These resources will provide a great starting point for anyone looking to learn more about OSINT. If you have any questions or comments, please feel free to mail me.

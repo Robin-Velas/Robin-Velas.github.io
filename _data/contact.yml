@@ -3,17 +3,17 @@
 -
   type: github
   icon: 'fab fa-github'
--
-  type: twitter
-  icon: 'fab fa-twitter'
--
+  url:  'https://github.com/Robin-Velas/'
+
+  type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/robin-marques/'
+
   type: email
   icon: 'fas fa-envelope'
+  url:  'mailto:unusual.common.sense@gmail.com'
   noblank: true            # open link in current tab
 -
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
